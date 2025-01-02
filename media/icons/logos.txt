@@ -1,0 +1,9 @@
+sustainable https://www.svgrepo.com/svg/453924/eco3
+support https://www.svgrepo.com/svg/453840/service
+quality https://www.svgrepo.com/svg/494018/quality-supervision
+
+sad https://www.svgrepo.com/svg/454024/smileynegative
+happy https://www.svgrepo.com/svg/454025/smileypositive
+neutral https://www.svgrepo.com/svg/454026/smileyneutral
+
+shopping bag https://www.svgrepo.com/svg/502836/shopping-bag
