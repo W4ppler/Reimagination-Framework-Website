@@ -25,4 +25,4 @@ website!
 - unzip the project
 - open ``index.html``
 
-You also can visit https://w4ppler.github.io/ to test it out
+You also can visit [https://w4ppler.github.io/](https://w4ppler.github.io/framework%20website/index.html) to test it out
